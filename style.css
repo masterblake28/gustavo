@@ -1,10 +1,11 @@
-header {
+body {
+    background-color: azure;
+}
+
+foother{
     background-color: black;
-    color: bisque
+    color: aliceblue;
+    position: fixed
+    bottom: 0;
+    
 }
-
-.cabeçalho-imagem{
-width: 20%;
-}
-
-
